@@ -1,0 +1,10 @@
+- install npm
+
+- npm creat vite@latest
+cd yourapp
+npm install
+npm run dev
+
+
+Q->  why vite? 
+->   
